@@ -99,7 +99,7 @@ Here are some ressources you would read to have a good understanding of tools, p
 | NAME  |   COUNTRY |   E-MAIL  |
 |:------|:----------|:----------|
 |ELVIS DARKO|GHANA|elvis_darko@outlook.com|
-|           |       |           |
+|RICHMOND E.Y. ABAKE|GHANA|richie.abake@gmail.com|
 |           |       |           |
 
 
